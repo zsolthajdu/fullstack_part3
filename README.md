@@ -1,1 +1,1 @@
-https://agile-basin-63291.herokuapp.com/api/persons
+https://agile-basin-63291.herokuapp.com
